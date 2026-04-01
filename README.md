@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Muhammad Zain Khan</h1>
+<h3 align="center">🚀 Full Stack Web Developer</h3>
 
-<!--
-**Zayyn-khan/Zayyn-khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💡 Passionate about building modern, scalable & user-friendly web apps  
+  🎯 Currently learning Backend (PHP, MySQL, Advanced JS)  
+  🌍 Based in Pakistan  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 💻 Frontend Developer (HTML, CSS, Bootstrap, JavaScript)
+- ⚙️ Learning Backend Development (PHP, MySQL & ASP.NET CORE)
+- 🚀 Goal: Build a successful IT agency **Elites Development**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### ⚙️ Backend (Learning)
+![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-lightblue?style=for-the-badge&logo=mysql)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: muhammadzaink.05@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/zain-khan-5654a23b7
+- 🌍 Portfolio: 
+
+---
+
+## ⚡ Fun Fact
+💬 I don’t just build websites — I build **digital experiences** 🚀
+
+---
+
+## 🎯 Quote
+> “Consistency is what transforms average into excellence.”
