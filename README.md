@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zain Khan</h1>
-<h3 align="center">Software Developer | Full Stack Web Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
   I specialize in building modern, scalable, and user-friendly web applications.<br>
